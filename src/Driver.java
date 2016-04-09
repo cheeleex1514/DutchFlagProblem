@@ -17,11 +17,6 @@
  * 
  * To end the run of the application just simply close 
  * the window.
- * 
- * Note:
- * I think I strayed a bit from the book's example. I modified 
- * the given sort algorithm to the needs of what I thought would be 
- * a possible solution.
  *
  */
 public class Driver {
