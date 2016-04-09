@@ -1,6 +1,4 @@
 /**
- * Unit 13 project 8 
- * 
  * @author Chee M. Lee
  * 
  * This is the driver class for testing the application.
